@@ -1,20 +1,13 @@
-body {
+body{
+    margin: 0;
+}
+h1{
+    margin-top: 0;
+}
 
-    background-color:#C0DEFF;
 
- }
- h1{
-    color: #A75D5D  ;font-size: 80px;
 
- }
- h3{
-    color: #A75D5D;
 
- }
- hr{
-    background-color: rgb(20, 19, 19);
-    
- }
- img{
-    background-color: wheat;
- }
+div{
+    background-color: #EAC7C7;
+}
